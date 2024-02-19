@@ -2,8 +2,8 @@
 
 use App\Http\Controllers\Api\AuthController;
 use App\Http\Controllers\Api\ReservaController;
-use App\Http\Controllers\EventController;
-use App\Http\Controllers\TarjetaController;
+use App\Http\Controllers\Api\EventController;
+use App\Http\Controllers\Api\TarjetaController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
